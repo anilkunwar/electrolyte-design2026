@@ -1,7 +1,5 @@
 # Generated from: reading_exodus_pot.ipynb
-# Converted at: 2026-08-18T02:15:03.029Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
+
 
 import netCDF4
 import numpy as np
